@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "recipes": {
+      ".read": true,
+      ".write": false
+    }
+  }
+}
